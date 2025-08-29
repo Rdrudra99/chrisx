@@ -15,6 +15,8 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Cherisx – Celebrate Love Together",
   description: "Cherisx is an AI-powered relationship app that helps couples strengthen their bond, resolve conflicts, and discover new ways to cherish each other.",
+  keywords: ["Cherisx", "AI", "relationship", "couples", "love"],
+
 };
 
 export default function RootLayout({
